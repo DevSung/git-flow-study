@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitFlowStudyApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GitFlowStudyApplication.class, args);
+		// Master branch Test Code
 	}
 
 }
